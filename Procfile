@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run newtcas2.py
+web: sh setup.sh && streamlit run project.py
