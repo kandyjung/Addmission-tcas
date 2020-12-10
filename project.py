@@ -4,8 +4,8 @@ import pickle
 
 st.write(""" 
 
-## My First Web Application 
-Let's enjoy **data science** project! 
+## Our First Project 
+Let's enjoy **Our data science** project! 
 
 """)
 
@@ -145,7 +145,7 @@ def get_input():
 # -- Call function to display widgets and get data from user
 df = get_input()
 
-st.header('Application of Abalone\'s Age Prediction:')
+st.header('Application of TCAS Student Admission')
 
 # -- Display new data from user inputs:
 st.subheader('User Input:')
